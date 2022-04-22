@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1648310300 source:c:\users\asi\documents\codeblocks\projects\test\asicosilomu terminal\main.cpp
+	<iostream>
+	<windows.h>
+	<algorithm>
+	<stdlib.h>
+	<limits>
+	<string.h>
+	<sstream>
+	<string>
+	<cstring>
+	<chrono>
+	<thread>
+
+1648310300 
+
+1650642952 source:/home/asicosilomu/Documente/CodeBlocks/Projects/asicosilomu-terminal-main/main.cpp
+	<iostream>
+	<algorithm>
+	<stdlib.h>
+	<limits>
+	<sstream>
+	<string>
+	<cstring>
+	<chrono>
+	<thread>
+	<unistd.h>
+
